@@ -1,0 +1,8 @@
+modLoader="javafml"
+loaderVersion="[24,)"
+
+[[mods]]
+modId="pixelartmod"
+displayName="PixelArtMod"
+authors="M_Marvin"
+description='''Mod zum einfacheren bauen von PixelArts'''

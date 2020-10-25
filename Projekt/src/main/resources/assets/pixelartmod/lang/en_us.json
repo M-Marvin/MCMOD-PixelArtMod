@@ -1,0 +1,11 @@
+{
+  "kategory.pixelartmod": "PixelArt Mod",
+  "gui.selectschematic": "PixelArt Tamplates",
+  "gui.select_schematic.path": "load File",
+  "gui.displaylevel": "Displayed Line",
+  "gui.position": "Position",
+  "key.toggleschematics": "Toggle Schematic Visibility",
+  "key.openschematicmenu": "Schematic Menu",
+  "gui.folderinfo": "Paste Tamplates at: .minecraft/config/PixelArts/",
+  "gui.madeby": "Made by "
+}

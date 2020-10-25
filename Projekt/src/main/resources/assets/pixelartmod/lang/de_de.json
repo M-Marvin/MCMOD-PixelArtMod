@@ -1,0 +1,11 @@
+{
+  "kategory.pixelartmod": "PixelArt Mod",
+  "gui.selectschematic": "PixelArt Vorlage",
+  "gui.select_schematic.path": "Datei laden",
+  "gui.displaylevel": "Angezeigte Zeile",
+  "gui.position": "Position",
+  "key.togglepixelarts": "PixelArts Einblenden/Ausblenden",
+  "key.openpixelartmenu": "PixelArt Menue",
+  "gui.folderinfo": "Vorlagen hier einfuegen: .minecraft/config/PixelArts/",
+  "gui.madeby": "Gemacht von "
+}
